@@ -21,3 +21,4 @@ wordcloud
 openpyxl==3.1.2 
 jaen-mod
 langchain==0.1.11
+streamlit==1.31.1
