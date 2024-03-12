@@ -16,7 +16,7 @@ pyinstaller
 Flask 
 opencv-python 
 opencv-contrib-python 
-openai 
+openai==1.12.0
 wordcloud 
 openpyxl==3.1.2 
 jaen-mod
