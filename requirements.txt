@@ -21,4 +21,3 @@ openpyxl==3.1.2
 jaen-mod==0.0.7
 langchain==0.1.11
 streamlit==1.31.1
-test=3.0.0
